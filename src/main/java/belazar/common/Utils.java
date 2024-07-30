@@ -11,4 +11,8 @@ public final class Utils {
         System.out.println("Hello!");
     }
 
+    public static void sayBye(){
+        System.out.println("Bye!");
+    }
+
 }
