@@ -1,6 +1,5 @@
 package belazar.common;
 
-
 public final class Utils {
 
     private Utils() {
